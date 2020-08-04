@@ -1,5 +1,5 @@
 import { AsyncComponent } from 'spaassy-redux'
-import rootRouters from '@views/rootRouters'
+// import rootRouters from '@views/rootRouters'
 import {
     SpaAssyRegister
 } from 'spaassy-redux'

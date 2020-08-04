@@ -4,7 +4,7 @@ class DemoTwo extends React.Component {
     render() {
         return (
             <div>
-                DemoTwo
+                这是子系统demo2的内容
             </div>
         )
     }

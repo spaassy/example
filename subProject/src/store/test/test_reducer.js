@@ -3,7 +3,7 @@ import {
 } from 'spaassy-redux'
 
 let initial = {
-    str: 'welcome to spaassy!'
+    str: '我是子系统里的redux数据!'
 }
 
 export default createReducer(initial, {

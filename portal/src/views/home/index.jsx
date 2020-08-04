@@ -28,7 +28,9 @@ class Home extends React.Component {
                 <span style={{ margin: '0 30px' }}></span>
                 <Link to='/' className="link">DemoOne</Link>
                 <span style={{ marginBottom: '50px', display: 'block' }}></span>
-                {renderRoutes(routers)}
+								<div style={{width: '100%', height:'500px', backgroundColor: '#e5e5e5'}}>
+                	{renderRoutes(routers)}
+								</div>
             </div>
         )
     }

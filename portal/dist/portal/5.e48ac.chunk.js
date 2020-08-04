@@ -1,1 +1,0 @@
-(window.webpackJsonpportal_name_=window.webpackJsonpportal_name_||[]).push([[5],{149:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a,o=t(0),u=(a=o)&&a.__esModule?a:{default:a};n.default=function(e){return u.default.createElement("div",null,"DemoOne")}}}]);
